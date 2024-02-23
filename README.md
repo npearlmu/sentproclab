@@ -1,5 +1,5 @@
 # Northeastern University Sentence Processing Lab
 
-**Unpublished Manuscripts**
+**PI: Neal J. Pearlmutter**
 
-Unpublished mss are copyright by the authors. Please cite appropriately (as "Unpublished manuscript, Northeastern University")
+Prof. Pearlmutter (and the lab) retired from Northeastern at the end of Summer 2022.  The materials here are  presentations based on the lab's work from 1995-2022.
